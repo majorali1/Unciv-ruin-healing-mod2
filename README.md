@@ -1,3 +1,1 @@
-Minimal base ruleset for Unciv, so people can start somewhere and gradually expand
-
-Based on https://github.com/AdelleStuuu/Adelle-Corp
+Minimal base unique ruleset for an Android game called Unciv in which this mod incoprates any unit receiving full hp upon entering a ruin 
