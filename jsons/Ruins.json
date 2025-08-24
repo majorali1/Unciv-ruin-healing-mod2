@@ -1,8 +1,8 @@
 [
     {
-        "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "name": "discover healing remedy's",
+        "notification": "We have discovered healing remedy's from the ruins (Full hp)",
+        "uniques": ["[ThisUnit] gains [+100]% health "],
         "color": "#cf8ff7"
     }
 ]
